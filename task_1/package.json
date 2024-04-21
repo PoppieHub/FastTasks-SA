@@ -1,0 +1,17 @@
+{
+  "name": "task_1-field-decoding",
+  "type": "module",
+  "version": "latest",
+  "description": "Implementation of the function of decoding fields with the id suffix from the encoded variable, using a dictionary with translations decryptions. While preserving the data structure in the form of a list of objects with the same keys.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "function of decoding fields with the id suffix from the encoded variable",
+    "encoded",
+    "decoded"
+  ],
+  "author": "PoppieHub",
+  "license": "ISC"
+}

@@ -1,0 +1,24 @@
+# ignore env
+*.env
+.idea
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# dependencies
+./task_2/node_modules/
+./task_2/.pnp
+./task_2/.pnp.js
+
+# testing
+./task_2/coverage
+
+# production
+./task_2/build
+
+./task_2/npm-debug.log*
+./task_2/yarn-debug.log*
+./task_2/yarn-error.log*
