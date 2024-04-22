@@ -1,0 +1,36 @@
+.convertCurrencyPair__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+    font-family: Monstserrat, sans-serif;
+}
+
+.convertCurrencyPair__choicePair {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.convertCurrencyPair__choicePair select {
+    padding: 8px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+}
+
+.convertCurrencyPair__inputCoins {
+    display: flex;
+    gap: 10px;
+}
+
+.convertCurrencyPair__inputCoins input[type="number"] {
+    padding: 8px;
+    width: 300px;
+    font-size: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    text-align: center;
+}

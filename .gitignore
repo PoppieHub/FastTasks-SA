@@ -12,6 +12,10 @@
 ./task_2/node_modules/
 ./task_2/.pnp
 ./task_2/.pnp.js
+./task_2/dist/
+./task_2/dist-ssr
+./task_2/*.local
+./task_2/.vite
 
 # testing
 ./task_2/coverage
